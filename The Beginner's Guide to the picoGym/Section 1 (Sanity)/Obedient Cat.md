@@ -25,7 +25,7 @@ You're given a file that contains the flag — no obfuscation, no tricks — it'
 
 ---
 
-## 💡 Hints Provided
+## 💡 Hints
 
 1. Commands you should type into the Terminal will be prefixed with a `$`. Only copy what's after the dollar sign.
 2. To download the file: <br>
