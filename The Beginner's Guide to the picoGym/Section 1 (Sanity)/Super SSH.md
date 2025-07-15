@@ -45,6 +45,8 @@ You'll also need the password `83dcefb7`.
 If asked, accept the fingerprint with `yes`.  
 If your device doesn't have a shell, use: https://webshell.picoctf.org*
 
+---
+
 ### 🔹Step 2: Log in as the User
 
 Open your terminal or the provided web shell and use the following SSH command format:
@@ -56,6 +58,8 @@ For this challenge, you would enter:
 ```
 ssh ctf-player@titan.picoctf.net -p 53726
 ```
+
+---
 
 ### 🔹Step 3: Accept the Host Fingerprint
 You may see a message like this:
@@ -72,6 +76,8 @@ Type ```83dcefb7``` to login to the account.
 
 After succesfully enter the password you are given this text and the flag: <br>
 ``` Welcome ctf-player, here's your flag: picoCTF{s3cur3_c0nn3ct10n_8969f7d3} ```
+
+---
 
 ## 🧠What You Learned
 * How to use SSH to connect to remote machines
