@@ -75,7 +75,7 @@ After typing yes and enter type the password given to you in the description of 
 Type ```83dcefb7``` to login to the account.
 
 After succesfully enter the password you are given this text and the flag: <br>
-``` Welcome ctf-player, here's your flag: picoCTF{s3cur3_c0nn3ct10n_8969f7d3} ```
+> *Welcome ctf-player, here's your flag: picoCTF{s3cur3_c0nn3ct10n_8969f7d3}*
 
 ---
 
