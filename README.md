@@ -46,5 +46,3 @@ My goal is to:
 I’m excited to continue learning and documenting my growth here. If you're also learning, feel free to use or contribute to this repo!
 
 ---
-
-**Disclaimer:** All writeups and tools here are for educational purposes only. Please use this knowledge responsibly.
