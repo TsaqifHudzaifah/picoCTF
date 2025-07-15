@@ -71,7 +71,7 @@ This host key is known by the following other names/addresses: <br>
 Are you sure you want to continue connecting (yes/no/[fingerprint])?*
 
 
-After typing yes and enter type the password given to you in the description of the challange. 
+After typing yes and enter type the password given to you in the description of the challange. <br>
 Type ```83dcefb7``` to login to the account.
 
 After succesfully enter the password you are given this text and the flag: <br>
