@@ -2,7 +2,7 @@
   <img src="https://play.picoctf.org/api/media/picoCTF_p_logo_4c_3_NoYG1qU_3zBp50s.png" alt="picoCTF Logo" width="200"/>
 </p>
 
-# 🐱 picoCTF Challenge: Obedient Cat
+# Beginner's Guide Challenge: Obedient Cat
 
 🔗 [Challenge Link](https://play.picoctf.org/playlists/18?m=146)
 
