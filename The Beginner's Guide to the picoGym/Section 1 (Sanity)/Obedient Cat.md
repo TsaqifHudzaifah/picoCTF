@@ -6,6 +6,10 @@
 
 🔗 [Challenge Link](https://play.picoctf.org/playlists/18?m=146)
 
+---
+
+### 📌 Challenge Overview
+
 - **Name:** Obedient Cat  
 - **Difficulty:** Easy  
 - **Category:** General Skills  
