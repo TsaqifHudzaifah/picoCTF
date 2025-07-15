@@ -1,4 +1,4 @@
-# 🚩 picoCTF Writeups by Future Cybersecurity Student
+# 🚩 picoCTF Writeups
 
 Welcome! I'm a student studying **cybersecurity**, and this repository is my personal space to document my learning journey through solving challenges from **picoCTF**.
 
