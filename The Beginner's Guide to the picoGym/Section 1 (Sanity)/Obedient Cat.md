@@ -41,22 +41,22 @@ You're given a file that contains the flag — no obfuscation, no tricks — it'
    
 ## 🛠️ Solution
 
-### Step 1: Open Your Terminal    
+### 🔹Step 1: Open Your Terminal    
 Open the terminal on your operating system (Windows, Linux, macOS, or use the shell in your CTF platform).
 
 
-### Step 2: Copy the Download Link  
+### 🔹Step 2: Copy the Download Link  
 Use the following link provided in the challenge to download the file: <br>
 https://mercury.picoctf.net/static/704f877da185904ec3992e7255a15c6c/flag
 
 
-### Step 3: Download the File  
+### 🔹Step 3: Download the File  
 In the terminal, type the following command to download the file:
 ```  
 wget https://mercury.picoctf.net/static/704f877da185904ec3992e7255a15c6c/flag
 ```
 
-### Step 4: Read the File  
+### 🔹Step 4: Read the File  
 To view the contents of the file, use the cat command:
 ```
 cat flag
