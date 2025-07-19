@@ -71,6 +71,6 @@ This will display the contents of the file, which includes the flag for the chal
 
 ---
 
-## 🧠 What You Learned
+## 🧠 What I have Learned
 * How to use `wget` to download files from a URL
 * How to use `cat` to view file contents in the terminal
