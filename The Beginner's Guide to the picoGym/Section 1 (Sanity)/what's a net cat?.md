@@ -59,7 +59,7 @@ picoCTF{nEtCat_Mast3ry_284be8f7}*
 
 --- 
 
-🧠 What You Learned
+🧠 What I have Learned
 * How to use nc (netcat) to connect to remote servers
 * Working with TCP port communication
 * Understanding how basic command-line tools can be used in cybersecurity
