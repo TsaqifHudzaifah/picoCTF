@@ -79,7 +79,7 @@ After succesfully enter the password you are given this text and the flag: <br>
 
 ---
 
-## 🧠What You Learned
+## 🧠What I have Learned
 * How to use SSH to connect to remote machines
 * Using custom ports with -p
 * Accepting unknown host fingerprints
