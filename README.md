@@ -2,7 +2,7 @@
 
 Welcome! I'm a student studying **cybersecurity**, and this repository is my personal space to document my learning journey through solving challenges from **picoCTF**.
 
-## 🔍 What is picoCTF?
+## What is picoCTF?
 
 **picoCTF** is a free, beginner-friendly Capture The Flag (CTF) competition created by security experts at **Carnegie Mellon University (CMU)**. It's designed to teach students and newcomers the basics of cybersecurity, computer systems, reverse engineering, web exploitation, cryptography, forensics, and more.
 
@@ -25,10 +25,10 @@ Each folder will contain:
 - A detailed writeup of how I solved it
 - Any relevant scripts or tools I used
 
-## 🛠Tools and Topics Covered
+## Tools and Topics Covered
 
 You'll find a range of topics such as:
-- 🕵️‍♂Forensics
+- Forensics
 - Web Exploitation
 - Cryptography
 - Reverse Engineering
